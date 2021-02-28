@@ -1,0 +1,10 @@
+/*selector de elemento*/
+
+
+body {
+    background-color: grey;
+    font-family: 'Ballet', sans-serif;
+    color: blue;
+    font-size: 25px;
+    border: solid 1px red;
+}
